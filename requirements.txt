@@ -1,2 +1,2 @@
-Transformers==4.33.3
+Transformers==4.38.0
 sentence-transformers==2.2.2
